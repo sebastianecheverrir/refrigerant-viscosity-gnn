@@ -129,7 +129,7 @@ The data-building notebook currently disables TLS certificate verification for N
 
 Use the metadata in `CITATION.cff`. Add the journal DOI, year, volume, and pages when the final bibliographic record is available.
 
-## License before public release
+## License
 
-No software or data license has been selected in this draft package. The copyright owner should choose and approve licenses before publishing the GitHub repository; see `LICENSE.md`.
+This repository is released under the MIT License. See `LICENSE` for the full terms. Third-party libraries, services, and source data remain subject to their respective licenses and terms of use.
 

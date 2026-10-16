@@ -8,7 +8,7 @@ authors:
   - family-names: "Morales-Espejel"
     given-names: "Guillermo E."
 date-released: 2026-10-16
-license: "LicenseRef-Proprietary-Pending"
+license: MIT
 preferred-citation:
   type: article
   title: "Viscosity prediction for unseen refrigerants from molecular structure using a graph neural network"

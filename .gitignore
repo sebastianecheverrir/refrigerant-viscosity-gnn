@@ -1,0 +1,37 @@
+.venv/
+.idea/
+.vscode/
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+build/
+dist/
+
+# Generated notebook artifacts
+results/*
+!results/.gitkeep
+training_runs/*/
+
+# Retain the four archived paper runs already tracked by Git.
+!training_runs/mse_20260622_162350/
+!training_runs/msre_20260622_190440/
+!training_runs/mape_20260622_200909/
+!training_runs/max_msre_20260623_001251/
+!training_runs/*/mape_history.txt
+!training_runs/*/*.pth
+
+# Temporary computational-chemistry files
+coord*
+charges
+energy
+gradient
+wbo
+xtb.inp
+xtb.out
+xtbout.json
+xtbrestart
+xtbtopo.mol
+
